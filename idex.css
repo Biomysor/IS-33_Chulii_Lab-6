@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+fieldset{
+    font-size: large;
+    color: blueviolet;
+    align-self: center;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+}
