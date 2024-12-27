@@ -1,3 +1,4 @@
+console.log("Task 6")
 function sales(medicines){
     const newmedicines=[];
     for(let i=0;i<medicines.length;i++){
